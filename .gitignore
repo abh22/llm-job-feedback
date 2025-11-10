@@ -1,0 +1,8 @@
+# .gitignore file content
+
+# Python environment
+venv/
+__pycache__/
+
+# Secrets and environment files
+.env

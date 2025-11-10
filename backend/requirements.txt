@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mistralai
+sentence-transformers
+qdrant-client
+python-dotenv
